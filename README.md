@@ -1,6 +1,6 @@
 # Justin Bilyeu
 
-**Entrepreneur and independent technical researcher.** I run a roofing company in Texas by day and spend the rest of my time building tools that force AI-assisted research to be honest.
+**Entrepreneur and independent technical researcher.** I am Quality Control for a local roofing company in Texas by day and spend the rest of my time building tools that force AI-assisted research to be honest.
 
 The through-line in everything here: **no claims without tests.** AI systems will happily help you build the case you were already building. My work is about making that impossible — for the models, and for me.
 
@@ -26,7 +26,6 @@ The methodology is documented, versioned, and public. It has teeth: I retired my
 
 ## Background
 
-Former property insurance adjuster (Haag storm-damage trained). Current owner-operator in roofing and exteriors. Twenty years of turning ambiguous real-world problems into systems that ship — the last three of them increasingly in Python.
 
 I'm not a formally trained engineer. Everything here was built through disciplined human-AI collaboration, which I'd argue is the point: it's a public record of what that workflow can produce when it's governed properly.
 
