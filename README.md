@@ -1,6 +1,6 @@
 # Justin Bilyeu
 
-**Entrepreneur and independent technical researcher.** I am Quality Control for a local roofing company in Texas by day and spend the rest of my time building tools that force AI-assisted research to be honest.
+**Hands on and independent technical researcher.** I am Quality Control for a local roofing company in Texas by day and spend the rest of my time building tools that force AI-assisted research to be honest.
 
 The through-line in everything here: **no claims without tests.** AI systems will happily help you build the case you were already building. My work is about making that impossible — for the models, and for me.
 
